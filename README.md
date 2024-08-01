@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashu_463" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_463?logo=twitter&style=for-the-badge" alt="ashu_463" /></a> </p>
 
-- 🔭 I’m currently working on **learning some new technologies**
-
-- 🌱 I’m currently learning **full stack develpment**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **a full stack project**
 
