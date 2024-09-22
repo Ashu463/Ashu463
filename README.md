@@ -16,10 +16,13 @@
 <a href="https://discord.gg/ashu_kasaudhan#6096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashu_kasaudhan#6096" height="30" width="40" /></a>
 </p>
 
+### Github Top Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu463&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+### Github Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashu463&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+### Contribution and Streak Sats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu463&theme=tokyonight" alt="mystreak"/>
 
 
