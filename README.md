@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kasaudhan</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A Remote developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu463&label=Profile%20views&color=0e75b6&style=flat" alt="ashu463" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashu_463" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_463?logo=twitter&style=for-the-badge" alt="ashu_463" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **a full stack project**
+- I’m hooking up with **DevOps** and **Microservices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
