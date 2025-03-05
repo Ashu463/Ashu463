@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Ashutosh a developer from India 🇮🇳
-<br>
 
 # 💫 About Me:
 🔭 I'm an Open Source Contributor @Oppia. <br><br>👀 I'm trying to deep dive into DevOps tools (Kubernetes, Prometheus & Grafana, etc).<br><br>🌱 I'm Currently learning Microservices (Jaegertracing, Open-Telemetry). <br><br>💬 Ask me about Backend Development (fragile tech stack) and Junior level DevOps tasks. <br>
